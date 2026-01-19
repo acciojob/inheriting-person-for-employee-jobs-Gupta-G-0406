@@ -21,5 +21,6 @@ class Employee extends Person {
     );
   }
 }
-ndow.Person = Person;
+
+window.Person = Person;
 window.Employee = Employee;
